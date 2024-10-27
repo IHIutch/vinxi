@@ -146,7 +146,7 @@ export function clearSession(
 ): Promise<void>
 ```
 
-## :::
+:::
 
 ### `sealSession(event, config)`: Seal the session
 
@@ -181,5 +181,3 @@ export function unsealSession(
 ```
 
 :::
-
----
